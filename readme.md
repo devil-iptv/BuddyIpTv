@@ -1,5 +1,5 @@
 
-# Biggest Pirates IPTV on GitHub
+# Biggest DEVIL X IPTV on GitHub
 
 This script is designed to merge and keep up-to-date m3u links collected from public sources.
 
@@ -19,7 +19,6 @@ This script is designed to merge and keep up-to-date m3u links collected from pu
   </a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFunctionError%2FPiratesTv&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/></a>
 
-![Logo](https://i.ibb.co/nQQn7yx/Pirates-Tv-1.png)
 
 
 ## Authors
